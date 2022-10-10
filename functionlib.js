@@ -11,4 +11,4 @@ let a=10;
 module.exports={
     fn:LibFn,
     varName:a
-} 
+}  

@@ -1,0 +1,29 @@
+// import java.util.*;
+// public class Bt{
+//     public class Node{
+//         // fill it
+//         int data;
+//         Node left,right;
+//         Node(int val){
+//             data =val;
+//             left=null;
+//              right=null;
+//              right=null;
+//              right=null;
+
+//         }
+//     }
+    
+//     public static Node construct(Integer arr[]){
+//         // fill it
+
+//     }
+//     public static void display(Node node){
+//         // fill it
+//     }
+//     public static void main(String args[]){
+//         Integer arr[] = {10,20,40,null,null,50,70,null,null,null,30,null,60,null,null};
+//         Node root = construct(arr);
+//         display(root);
+//     }
+// }
